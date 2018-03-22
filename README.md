@@ -8,3 +8,21 @@ This implementation is open on GitHub but is old, so me and my research group ad
 
 The repository of my research is :
 https://github.com/andersonandrei/VehicularNetworksIC
+
+Topics:
+
+- INET Framework examples :
+
+There is a description page to the possible contributions :
+	https://inet.omnetpp.org/HowCanYouHelp.html
+And there is a topic : 
+
+"As a researcher:
+
+    When you review/validate models to be used for your project (advised!), share your findings
+    Contribute your improvements and the models you write"
+
+
+And there is a description page to explain how to contribute:
+https://inet.omnetpp.org/ContribGettingStarted.html
+
