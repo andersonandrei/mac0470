@@ -24,7 +24,7 @@ Topics:
     And there is a description page to explain how to contribute:
 	https://inet.omnetpp.org/ContribGettingStarted.html
 
-	Information about te INET Framework repository:
+	Information about the INET Framework repository:
 	- Commits: 8787
 	- Branches: 135
 	- Releases: 44
