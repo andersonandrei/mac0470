@@ -13,11 +13,11 @@ Topics:
 
 - INET Framework examples :
 
-There is a description page to the possible contributions :
-	https://inet.omnetpp.org/HowCanYouHelp.html
-And there is a topic : 
+	There is a description page to the possible contributions :
+		https://inet.omnetpp.org/HowCanYouHelp.html
+	And there is a topic : 
 
-"As a researcher:
+	"As a researcher:
 
     When you review/validate models to be used for your project (advised!), share your findings
     Contribute your improvements and the models you write"
