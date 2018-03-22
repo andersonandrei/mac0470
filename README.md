@@ -22,6 +22,12 @@ Topics:
     When you review/validate models to be used for your project (advised!), share your findings
     Contribute your improvements and the models you write"
 
+Information about te INET Framework repository:
+- Commits: 8787
+- Branches: 135
+- Releases: 44
+- Contributors: 26
+
 
 And there is a description page to explain how to contribute:
 https://inet.omnetpp.org/ContribGettingStarted.html
