@@ -13,9 +13,9 @@ Topics:
 
 - INET Framework examples :
 
-	There is a description page to the possible contributions :
+	"There is a description page to the possible contributions :
 		https://inet.omnetpp.org/HowCanYouHelp.html
-	And there is a topic : 
+	And there is a topic : "
 
 	"As a researcher:
 
