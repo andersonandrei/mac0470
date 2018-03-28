@@ -30,5 +30,9 @@ Topics:
 	- Releases: 44
 	- Contributors: 26
 
+Update commits:
 
+- Week 26/03
+	I tried in the start of the week to readopt all the code of DASH by Navarro Joaquim, to then pull request it. I could not do it, but now I list the differences of his version and our version. A big part of his code, that I could not adopt, is to use in his paticular OMNeT scenario and we are interested in a general use. So I intend to do a pull request with our "general version" and I inted to do it this week.
 
+	Observation: I think is better to wait an answer by Navarro before I do a pull request of our scenario on the INET repository. Because we are using DASH and I want a answer of the "owner" of the code that we adopt before to divulgate it in othe repository.
