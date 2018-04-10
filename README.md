@@ -32,7 +32,20 @@ Topics:
 
 Update commits:
 
-- Week 26/03
-	I tried in the start of the week to readopt all the code of DASH by Navarro Joaquim, to then pull request it. I could not do it, but now I list the differences of his version and our version. A big part of his code, that I could not adopt, is to use in his paticular OMNeT scenario and we are interested in a general use. So I intend to do a pull request with our "general version" and I inted to do it this week.
+- Week 19/03 :
+	I finished the example project that I intend to submit to INET repository. I used it with my group in our scientific initiation in our first paper, submitted to SBRC2018 (http://www.sbrc2018.ufscar.br/en/) .
 
-	Observation: I think is better to wait an answer by Navarro before I do a pull request of our scenario on the INET repository. Because we are using DASH and I want a answer of the "owner" of the code that we adopt before to divulgate it in othe repository.
+- Week 26/03 :
+	I tried in the start of the week to readopt all the code of DASH by Navarro Joaquim, to then pull request it. I could not do it, but now I list the differences of his version and our version. A big part of his code, that I could not adopt, is to use in his particular OMNeT scenario and we are interested in a general use. So I intend to do a pull request with our "general version" and I intend to do it this week.
+
+	Observation: I think is better to wait an answer by Navarro before I do a pull request of our scenario on the INET repository.
+
+	In this week I also prepared my talk about Agile Methodology for this course.
+
+- Week 02/04 :
+	Because personal problems I did not working this week.
+
+- Week 09/04 :
+	I enjoyed the INET Google Groups, explain my purpose and ask how can I contribute with my project.
+
+	I already have an answer, asking me more about my idea and project, to better analyze how can I help the community. So, I answered it with more details.
