@@ -49,3 +49,9 @@ Update commits:
 	I enjoyed the INET Google Groups, explain my purpose and ask how can I contribute with my project.
 
 	I already have an answer, asking me more about my idea and project, to better analyze how can I help the community. So, I answered it with more details.
+
+- Week 16/04 :
+	I had an answer in the INET Google Groups describing my possible next steps. They tell me where I should put my files into the
+	repository.
+
+	The IC project was accept in the SBRC2018 on WTG, so, in this week I was preparing my presentation to do a preview on 23/04.
