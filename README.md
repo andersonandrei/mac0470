@@ -55,3 +55,6 @@ Update commits:
 	repository.
 
 	The IC project was accept in the SBRC2018 on WTG, so, in this week I was preparing my presentation to do a preview on 23/04.
+
+- Week 23/04 : 
+	In this week I intend to present my preview project to the development systems group of my college. So, I intend to collect feedbakcs and improve my presentation in this week.
