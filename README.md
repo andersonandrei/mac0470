@@ -58,3 +58,11 @@ Update commits:
 
 - Week 23/04 : 
 	In this week I intend to present my preview project to the development systems group of my college. So, I intend to collect feedbakcs and improve my presentation in this week.
+
+- Week 30/04 :
+	In this week I made a pull request to the INET repository.
+
+- Week 07/04 :
+	I made a misunderstanding and pull resquested to the master branch but I could do
+	it to the integration branch. I did it now, but there are many modifications in 
+	the integration branch, so my code is not compiling. I intend to correct it this week.
