@@ -62,7 +62,16 @@ Update commits:
 - Week 30/04 :
 	In this week I made a pull request to the INET repository.
 
-- Week 07/04 :
-	I made a misunderstanding and pull resquested to the master branch but I could do
+- Week 07/05 :
+	I made a pull resquested to the master branch but the group is working in the integration branch
+	to update the 3.x version to the 4. Was recommended that I do the pull request to the 
 	it to the integration branch. I did it now, but there are many modifications in 
 	the integration branch, so my code is not compiling. I intend to correct it this week.
+
+- Week 14/05 :
+	I worked to do my presentation about Free Software in the Health.
+
+- Week 21/05 : 
+	I have started to work in the adaptation of my project in Inet, but it look harder than I tought.
+	So I intend to re start the project in the new version althoug to adapt what we dids.
+	I also worked in my presentation about Free Culture, Creative Commons and Open Knowlegment. 
