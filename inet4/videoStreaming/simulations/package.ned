@@ -1,3 +1,3 @@
-package videostreaming.simulations;
+package inet.examples.wireless.video.videoStreaming.simulations;
 
 @license(LGPL);

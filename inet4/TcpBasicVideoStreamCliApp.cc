@@ -9,7 +9,6 @@
 #include "inet/applications/tcpapp/TcpBasicVideoStreamCliApp.h"
 #include "inet/applications/tcpapp/GenericAppMsg_m.h"
 
-
 namespace inet {
 
 #define MSGKIND_CONNECT     0

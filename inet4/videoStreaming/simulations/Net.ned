@@ -13,7 +13,7 @@
 // along with this program.  If not, see http://www.gnu.org/licenses/.
 // 
 
-package videostreaming.simulations;
+package inet.examples.wireless.video.videoStreaming.simulations;
 
 import inet.common.lifecycle.LifecycleController;
 import inet.common.scenario.ScenarioManager;
@@ -43,8 +43,8 @@ network Net
         string mediumType = default("UnitDiskRadioMedium");
         @display("bgb=1000,700");
 
-        @figure[rcvdPkText](type=indicatorText; pos=380,20; anchor=w; font=,18; textFormat="packets received: %g"; initialValue=0);
-        @statistic[packetReceived](source=hostB.app[0].packetReceived; record=figure(count); targetFigure=rcvdPkText);
+        //@figure[rcvdPkText](type=indicatorText; pos=380,20; anchor=w; font=,18; textFormat="packets received: %g"; initialValue=0);
+        //@statistic[packetReceived](source=hostB.app[0].packetReceived; record=figure(count); targetFigure=rcvdPkText);
 
     submodules:
         visualizer: <default("IntegratedCanvasVisualizer")> like IIntegratedVisualizer if hasVisualizer() {
@@ -60,10 +60,10 @@ network Net
             @display("p=909.56805,357.63202");
         }
         hostA: <hostType> like INetworkNode {
-            @display("i=device/pocketpc_s;p=782.86206,544.9101");
+            @display("i=device/pocketpc_s;p=691.328,388.608");
         }
         hostB: <hostType> like INetworkNode {
-            @display("i=device/pocketpc_s;p=145.15071,242.71104");
+            @display("i=device/pocketpc_s;p=359.04,388.608");
         }
         hostR[numHosts]: <hostType> like INetworkNode {
             @display("i=device/pocketpc_s;r=,,#707070;");

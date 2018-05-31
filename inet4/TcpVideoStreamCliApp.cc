@@ -2,7 +2,7 @@
  *  TcpVideoStreamCliApp.cc
  *
  *  It's an adaptation of the code of Navarro Joaquim (https://github.com/navarrojoaquin/adaptive-video-Tcp-omnet).
- *  Created on 8 de dez de 2017 by Anderson Andrei da Silva & Patrick Menani Abrahao at University of Sao Paulo
+ *  Created on 8 de dez de 2017 by Anderson Andrei da Silva & Patrick Menani Abrahao at University of Sao Paulo.
  *
  */
 
@@ -28,7 +28,6 @@ TcpVideoStreamCliApp::~TcpVideoStreamCliApp() {
 TcpVideoStreamCliApp::TcpVideoStreamCliApp() {
     timeoutMsg = NULL;
 }
-
 
 void TcpVideoStreamCliApp::initialize(int stage) {
     TcpBasicClientApp::initialize(stage);
@@ -114,12 +113,6 @@ void TcpVideoStreamCliApp::sendRequest() {
     payload->setServerClose(false);
     packet->insertAtBack(payload);
     sendPacket(packet);
-
-//    GenericAppMsg *packet = new GenericAppMsg();
-//    packet->setExpectedReplyLength(requestLength);
-//    packet->setExpectedReplyLength(replyLength);
-//    packet->setServerClose(false);
-//    sendPacket(packet);
 
 }
 

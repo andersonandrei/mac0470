@@ -1,15 +1,15 @@
-package inet.applications.tcpapp;
-import inet.applications.contract.IApp;
-
 //
-//  TcpVideoStreamCliApp
+//  TcpBasicVideoStreamCliApp
 //
 //  It's an adaptation of the code of Navarro Joaquim (https://github.com/navarrojoaquin/adaptive-video-Tcp-omnet).
 //  Created on 8 de dez de 2017 by Anderson Andrei da Silva & Patrick Menani Abrahao at University of Sao Paulo
 //
 //
-// Client for video streaming over Tcp.
+//  Client for video streaming over Tcp.
 //
+
+package inet.applications.tcpapp;
+import inet.applications.contract.IApp;
 
 simple TcpBasicVideoStreamCliApp like IApp 
 {

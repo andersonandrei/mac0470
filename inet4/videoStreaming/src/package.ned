@@ -1,3 +1,3 @@
-package videostreaming;
+package inet.examples.wireless.video.videoStreaming.src;
 
 @license(LGPL);
