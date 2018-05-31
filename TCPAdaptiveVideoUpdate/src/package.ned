@@ -1,3 +1,0 @@
-package tcpadaptivevideoupdate;
-
-@license(LGPL);
