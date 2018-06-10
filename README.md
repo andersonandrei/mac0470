@@ -74,4 +74,15 @@ Update commits:
 - Week 21/05 : 
 	I have started to work in the adaptation of my project in Inet, but it look harder than I tought.
 	So I intend to re start the project in the new version althoug to adapt what we dids.
-	I also worked in my presentation about Free Culture, Creative Commons and Open Knowlegment. 
+	I also worked in my presentation about Free Culture, Creative Commons and Open Knowlegment.
+
+- Week 28/05 :
+	I tried to adopt my INET 3.x project to INET 4.0 but it has some problems. There is a new module 
+	at the INET 4.0 to the TCP packages, so it broke my simulation when it is running.
+	I couldn't correct it, so I did a pull request and sent a message asking for help.
+
+- Week 04/06 :
+	I received a answer with a little description about the error and some recommendation. I also received another message, by other developer of the INET, he did a new branch with my project and tried to correct it. I found a little error on my code, so I corrected and replied to the new branch creator that I corrected a little thing and ask him to continue helping me.
+	I also have started to do my final report.
+
+- Week 11/06 :
