@@ -1,9 +1,9 @@
-This is a subject of the undergrad course of Computer Science of the Univesity of São Paulo. Here I'm going to describe my collaborations with the free software comunity.
+This is a subject of the undergrad course of Computer Science of the University of São Paulo. Here I'm going to describe my collaborations with the free software community.
 
-I'm an undregadute student of Computer Science and I'm researching Vehicular Networks. In this subject I will use my research collaborating with the applications that I'm working.
+I'm an undergraduate student of Computer Science and I'm researching Vehicular Networks. In this subject I will use my research collaborating with the applications that I'm working.
 I'm using the OMNeT++, an open network simulator and I intend to post my scenarios applications in this program.
-Exist an extension of the OMNeT++ that simulate movements in the newtworks. 
-A transmission method that I'm studying is the DASH and exist an application in the INET Framwork that implements it. 
+Exist an extension of the OMNeT++ that simulate movements in the networks. 
+A transmission method that I'm studying is the DASH and exist an application in the INET Framework that implements it. 
 This implementation is open on GitHub but is old, so me and my research group adapt it. To this subject I want to collaborate with this repository too.
 
 The repository of my research is :
@@ -57,13 +57,13 @@ Update commits:
 	The IC project was accept in the SBRC2018 on WTG, so, in this week I was preparing my presentation to do a preview on 23/04.
 
 - Week 23/04 : 
-	In this week I intend to present my preview project to the development systems group of my college. So, I intend to collect feedbakcs and improve my presentation in this week.
+	In this week I intend to present my preview project to the development systems group of my college. So, I intend to collect feedbacks and improve my presentation in this week.
 
 - Week 30/04 :
 	In this week I made a pull request to the INET repository.
 
 - Week 07/05 :
-	I made a pull resquested to the master branch but the group is working in the integration branch
+	I made a pull requested to the master branch but the group is working in the integration branch
 	to update the 3.x version to the 4. Was recommended that I do the pull request to the 
 	it to the integration branch. I did it now, but there are many modifications in 
 	the integration branch, so my code is not compiling. I intend to correct it this week.
@@ -72,9 +72,9 @@ Update commits:
 	I worked to do my presentation about Free Software in the Health.
 
 - Week 21/05 : 
-	I have started to work in the adaptation of my project in Inet, but it look harder than I tought.
-	So I intend to re start the project in the new version althoug to adapt what we dids.
-	I also worked in my presentation about Free Culture, Creative Commons and Open Knowlegment.
+	I have started to work in the adaptation of my project in INET, but it look harder than I thought.
+	So I intend to re start the project in the new version although to adapt what we did.
+	I also worked in my presentation about Free Culture, Creative Commons and Open Knowledge.
 
 - Week 28/05 :
 	I tried to adopt my INET 3.x project to INET 4.0 but it has some problems. There is a new module 
