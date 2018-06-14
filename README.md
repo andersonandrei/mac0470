@@ -86,3 +86,4 @@ Update commits:
 	I also have started to do my final report.
 
 - Week 11/06 :
+	I finished my final report and presentation. So I finished my work into this course. I will continue working on my contribution to the INET repository with my research.
